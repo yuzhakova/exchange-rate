@@ -10,9 +10,9 @@ Select countries to get the exchange rate for a specific amount
 - Update values on amount change
 - Swap country rates
 
-!["Exchange Rates](https://raw.githubusercontent.com/yuzhakova/TBD.png)
 
-!["Exchange Rates](https://raw.githubusercontent.com/yuzhakova/TBD.png)
+!["Exchange Rates](https://raw.githubusercontent.com/yuzhakova/exchange-rate/main/img/exchange-rate-calculator.png)
+
 
 - JavaScript
 - HTML
